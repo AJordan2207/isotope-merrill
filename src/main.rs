@@ -2,6 +2,7 @@
 This program will let the user guess a number and then give hints on where to guess
 */
 
+mod montreal;
 
 use std::{cmp::Ordering, io};
 
